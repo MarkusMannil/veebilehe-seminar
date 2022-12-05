@@ -1,0 +1,16 @@
+# Veebilehe-seminar
+
+== Tiim
+Markus Männil, Grigory Zenov
+
+== T3h@$ 
+
+T3h@$ on veebileht mis on olemuselt Digital Dark Synthwave/Cyberpunk, Horror/Sci-Fi muusika infoleht.
+Peamised funktsioonid: 
+
+Samplite kuulamine ja alla tõmbamine
+Konserdite ajakava kuvamine koos linkidega nendele eventidele
+
+Projekti panustasid võrdselt Markus ja Grigory. Artjom Rattikust pole midagi kuulnud.
+
+

@@ -1,0 +1,32 @@
+h1{
+    color: black;
+    font-size: 40px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+p{
+    color: midnightblue;
+    font-size: 15px;
+    font-family: "Fira Code Medium", monospace;
+}
+
+body{
+    background: whitesmoke;
+}
+pog{
+    background: coral;
+}
+li{
+    font-family: "Fira Code Medium", monospace;
+}
+td{
+    font-family: "Fira Code Medium", monospace;
+}
+th{
+    font-family: "Fira Code Medium", monospace;
+}
+table{
+    background: gainsboro;
+}
+pilt{
+    box-shadow: 15px 15px 100px 100px coral ;
+}
